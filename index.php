@@ -73,6 +73,7 @@ if (isset($_SESSION['email'])) {
 
                     <div class="col-sm-4">
                         <a href="products.php#shirts" >
+                          
                             <div class="thumbnail">
                                 <img src="img/13.jpg" alt="">
                                 <div class="caption">
